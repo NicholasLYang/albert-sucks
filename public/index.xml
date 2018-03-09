@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Albert Sucks</title>
+    <link>https://albertsucks.com/</link>
+    <description>Recent content on Albert Sucks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Mar 2018 23:58:40 -0500</lastBuildDate>
+    
+	<atom:link href="https://albertsucks.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://albertsucks.com/about/</link>
+      <pubDate>Thu, 08 Mar 2018 23:58:40 -0500</pubDate>
+      
+      <guid>https://albertsucks.com/about/</guid>
+      <description>This blog is dedicated to how much NYU&amp;rsquo;s web design sucks. Basically, as a front end developer (React/Redux with ES6+ if you&amp;rsquo;re hiring), I understand precisely the extent to which NYU&amp;rsquo;s websites are fucked up (hint hint, a lot). The goal of this blog is to expose precisely how and why NYU&amp;rsquo;s design sucks.
+The blog is built with Hugo, a static site generator, and the Hugo Bootstrap v4 Blog theme.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://albertsucks.com/2018/03/first-post/</link>
+      <pubDate>Thu, 08 Mar 2018 23:33:28 -0500</pubDate>
+      
+      <guid>https://albertsucks.com/2018/03/first-post/</guid>
+      <description>Hello and welcome to Albert Sucks, the one and only blog dedicated to NYU&amp;rsquo;s terrible terrible web design. The point of this blog is to dissect precisely how and why NYU&amp;rsquo;s web design sucks. You see, I am a developer. I&amp;rsquo;ve done my fair share of web development, specifically React/Redux with ES6+ if you&amp;rsquo;re into buzzwords. And having peeked behind the curtain that is HTML, CSS and JavaScript, I can tell you that NYU&amp;rsquo;s websites are worse than you think, are worse than you can imagine.</description>
+    </item>
+    
+  </channel>
+</rss>
