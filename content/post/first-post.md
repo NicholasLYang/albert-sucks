@@ -26,8 +26,17 @@ registering for courses, why these sites just feel so **bad**. If I
 can get one student to stand up and say "I demand better from NYU",
 then I will have achieved my goal.
 
-This blog is built using Hugo, a static site generator. I'm using the
-[Bootstrap v4
+However, I'd like to note that this blog is not meant to insult or
+denegrate the developers of Albert. For there to be a product this bad
+and this confusing, there needs to be fundamental issues larger than
+just bad code or bad programmers. Furthermore, I am not attempting to
+attack NYU as a whole. After all, I am an NYU student myself. I simply
+expect more from NYU in their design and development efforts.
+
+As for technical details, this blog is built using Hugo, a static site
+generator. I'm using the [Bootstrap v4
 Blog](https://themes.gohugo.io/hugo-theme-bootstrap4-blog/)
 theme. It's hosted in AWS using S3, Cloudfront and Route 53. The
 domain was bought using Gandi.
+
+I hope you enjoy this blog!
